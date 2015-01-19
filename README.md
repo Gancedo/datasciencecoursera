@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-New repo for Course project.
+This is my repo for the Data Science Specialization courses with Coursera.
